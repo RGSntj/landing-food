@@ -1,0 +1,15 @@
+footer {
+  background-color: #ffe8b4;
+}
+
+footer .footer-items {
+  display: flex;
+  padding: 0 8% 24px 8%;
+  align-items: center;
+  justify-content: space-between;
+}
+
+footer .footer-items span {
+  color: #1d1d1d;
+  font-weight: 500;
+}
